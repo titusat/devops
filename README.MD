@@ -1,1 +1,1 @@
-DEVOPs complete Guide
+DEVOPs complete Cycle
