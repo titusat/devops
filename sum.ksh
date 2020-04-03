@@ -2,7 +2,7 @@
 # Calculate the sum of two integers with pre initialize values
  
 a=152
-b=3000
+b=30000
  
 sum=$(( $a + $b ))
  
