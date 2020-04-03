@@ -1,8 +1,8 @@
 #!/bin/bash
 # Calculate the sum of two integers with pre initialize values
  
-a=1520
-b=30000
+a=1
+b=3
  
 sum=$(( $a + $b ))
  
