@@ -2,7 +2,7 @@
 # Calculate the sum of two integers with pre initialize values
 # in a shell script
  
-a=10
+a=15
 b=300
  
 sum=$(( $a + $b ))
